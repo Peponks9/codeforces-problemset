@@ -1,2 +1,2 @@
 # codeforces-problemset
-Solutions to problems on codeforces
+Solutions to problems on codeforces: https://codeforces.com/problemset

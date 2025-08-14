@@ -8,9 +8,10 @@ The second line contains a string s, consisting of n uppercase English letters '
 use std::io::{self, Read};
 
 fn main() {
-    let mut io = FastIO::new();
-    let n: i32 = io.next();
-    let s: String = io.next();
+    let mut input = String::new();
+    io::stdin().read_to_string(&mut input).unwrap();
+    let s = input.trim();
+
     let result = anton_or_danik(&s);
     println!("{}", result);
 }

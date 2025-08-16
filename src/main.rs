@@ -5,5 +5,5 @@ use utils::io::FastIO;
 
 fn main() {
     let mut io = FastIO::new();
-    problems::problem_41a::solve(&mut io);
+    problems::problem_467a::solve(&mut io);
 }

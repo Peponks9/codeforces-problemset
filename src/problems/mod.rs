@@ -1,5 +1,6 @@
 // Add your problem modules here
 pub mod problem_110a;
+pub mod problem_344a;
 pub mod problem_41a;
 pub mod problem_467a;
 pub mod problem_59a;

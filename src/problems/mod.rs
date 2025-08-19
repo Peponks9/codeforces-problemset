@@ -5,6 +5,7 @@ pub mod problem_271a;
 pub mod problem_344a;
 pub mod problem_41a;
 pub mod problem_467a;
+pub mod problem_486a;
 pub mod problem_59a;
 pub mod problem_677a;
 pub mod problem_71a;

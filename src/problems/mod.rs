@@ -12,6 +12,7 @@ pub mod problem_486a;
 pub mod problem_59a;
 pub mod problem_61a;
 pub mod problem_677a;
+pub mod problem_705a;
 pub mod problem_71a;
 pub mod problem_734a;
 pub mod problem_977a;

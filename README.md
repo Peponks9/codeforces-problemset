@@ -14,13 +14,6 @@ Individual Rust files that can be compiled and run independently. Each file cont
 
 Solutions integrated into the main project structure, using shared utilities and a common I/O system.
 
-## 🛠️ Setup and Usage
-
-### Prerequisites
-
-- Rust (2024 edition or later)
-- Cargo
-
 ### Running Standalone Solutions
 
 ```bash
